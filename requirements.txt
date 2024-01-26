@@ -1,0 +1,13 @@
+```plaintext
+requests==2.26.0
+```
+
+This file specifies the version of the `requests` library required for your project. The `requests` library is used to make HTTP requests in your weather app. This minimal example assumes that the only external library your project depends on is `requests`. If you end up using additional libraries, you can add them to this file with their respective versions.
+
+Make sure to keep this file up-to-date as you develop your project and add more dependencies. Users can then install all the necessary dependencies by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+This command installs the libraries listed in the `requirements.txt` file, making it easy for others to set up your project on their local machines.
