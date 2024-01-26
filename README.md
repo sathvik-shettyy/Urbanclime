@@ -20,7 +20,7 @@ This is a simple weather app written in Python that allows users to retrieve cur
 - An OpenWeatherMap API key. Get yours [here](https://openweathermap.org/api).
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/sathvikshetty/weather-app.git`
+1. Clone the repository: `git clone https://github.com/sathvikshetty/Urbanclime.git`
 2. Navigate to the project directory: `cd weather-app`
 3. Install dependencies: `pip install -r requirements.txt`
 
