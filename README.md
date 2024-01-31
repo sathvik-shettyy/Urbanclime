@@ -1,5 +1,3 @@
-Certainly! Below is an example README.md for your weather app project authored by Sathvik Shetty:
-
 ```markdown
 # Simple Weather App
 
